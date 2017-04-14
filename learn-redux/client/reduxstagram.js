@@ -32,7 +32,6 @@ const router = (
       </Route>
     </Router>
   </Provider>
-
 );
 
 render(router, document.getElementById('root'));
